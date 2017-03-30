@@ -1,0 +1,21 @@
+{
+    "name": "bigdropinc/yii2-ajax-access-rule",
+    "description": "Ajax access rule for yii2 access filter",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","ajax","access","filter"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Akira Shirase",
+            "email": "sergey.m@bigdropinc.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "shirase\\yii2-ajax-access-rule\\": ""
+        }
+    }
+}
